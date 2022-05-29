@@ -2,8 +2,7 @@
  📮 A simple wrapper for Smartnator (old. Gmailnator) to get unlimited gmail written in Python
 
 ### Credits
-Thank's to [h0nda](https://github.com/h0nde)
-
+Gmailnator changed their name (to Smartnator) and api so this is a package to continue using it
 ### Install
 `pip install https://github.com/Mewzax/GmailnatorPy`
 
