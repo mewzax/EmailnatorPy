@@ -5,7 +5,7 @@
 [Gmailnator](smartnator.com) changed their name to Smartnator and their private API so this is a package to continue using it
 
 ### Install
-`pip install https://github.com/Mewzax/GmailnatorPy`
+`pip install git+https://github.com/Mewzax/GmailnatorPy`
 
 ### Usage
 ```py
