@@ -1,10 +1,9 @@
 # GmailnatorPy
  📮 A simple wrapper for Smartnator (old. Gmailnator) to get unlimited gmail written in Python
 
-### Credits
+### Hello World
 [Gmailnator](smartnator.com) changed their name to Smartnator and thir API so this is a package to continue using it
 
-Repository inpired by [h0nda](https://github.com/h0nde)
 ### Install
 `pip install https://github.com/Mewzax/GmailnatorPy`
 
@@ -33,3 +32,6 @@ email | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referen
 sender | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender name
 sender_address | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender email
 subject | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's subject
+
+### Credits
+Repository inpired by [h0nda](https://github.com/h0nde)
