@@ -18,8 +18,12 @@ if __name__ == "__main__":
 
 ### Docs
 
+#### .getEmail(type)
+PARAMETER | TYPE | DESCRIPTION
+--- | --- | ---
+email_type | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | Can be domain, plus, dot or random
 #### .waitForMessage(email, **options)
-Wait for the message you want
+__Wait for the message you want__
 
 PARAMETER | TYPE | DESCRIPTION
 --- | --- | ---
