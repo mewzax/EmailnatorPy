@@ -18,9 +18,12 @@ if __name__ == "__main__":
 
 ### Docs
 
-<h2 id="lol">.waitForMessage(email, **options)</h2>
-<h3>Wait for the message you want</h3>
+### .waitForMessage(email, **options)
+#### Wait for the message you want
 
-PARAMETER | TYPE | DESCRIPTION | EXEMPLE
---- | --- | --- | ---
-image | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) - [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer) - [Canvas.Image](https://www.tabnine.com/code/javascript/functions/canvas/loadImage) | Image to affect | https://someimage.com/image.png
+PARAMETER | TYPE | DESCRIPTION
+--- | --- | ---
+email | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The email wich will receive the message
+sender | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender name
+sender_address | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender email
+sender_address | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's subject
