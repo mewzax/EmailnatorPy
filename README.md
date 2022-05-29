@@ -3,6 +3,7 @@
 
 ### Credits
 [Gmailnator](smartnator.com) changed their name to Smartnator and thir API so this is a package to continue using it
+
 Repository inpired by [h0nda](https://github.com/h0nde)
 ### Install
 `pip install https://github.com/Mewzax/GmailnatorPy`
