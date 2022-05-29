@@ -1,9 +1,13 @@
 # GmailnatorPy
  📮 A simple wrapper for Smartnator (old. Gmailnator) to get unlimited gmail written in Python
 
+### Install
+`pip install https://github.com/Mewzax/GmailnatorPy`
+
+
+### Usage
 ```py
 from SmartnatorPy import Smartnator
-
 if __name__ == "__main__":
     sn = Smartnator()
     email = sn.getEmail("dot")
