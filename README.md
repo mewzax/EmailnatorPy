@@ -15,3 +15,10 @@ if __name__ == "__main__":
     message = sn.waitForMessage(email, sender_address="info@service-mail.zalando.fr")
     print("Your message:" message) # {"sender": sender, "sender_address": sender_address, "subject": subject, "url": url, "content": content }
 ```
+
+### Options
+To filter your mails, you can use options
+
+* sender="`sender_username`"
+* sender_address="`sender_email`"
+* subject="`message_subject`"
