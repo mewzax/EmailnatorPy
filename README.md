@@ -18,8 +18,8 @@ if __name__ == "__main__":
 
 ### Docs
 
-### .waitForMessage(email, **options)
-#### Wait for the message you want
+#### .waitForMessage(email, **options)
+Wait for the message you want
 
 PARAMETER | TYPE | DESCRIPTION
 --- | --- | ---
