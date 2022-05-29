@@ -1,9 +1,11 @@
 # GmailnatorPy
  📮 A simple wrapper for Smartnator (old. Gmailnator) to get unlimited gmail written in Python
 
+### Credits
+Thank's to [h0nda](https://github.com/h0nde)
+
 ### Install
 `pip install https://github.com/Mewzax/GmailnatorPy`
-
 
 ### Usage
 ```py
@@ -29,4 +31,4 @@ PARAMETER | TYPE | DESCRIPTION
 email | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The email wich will receive the message
 sender | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender name
 sender_address | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's sender email
-sender_address | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's subject
+subject | Optional [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | The message's subject
