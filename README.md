@@ -23,7 +23,6 @@ PARAMETER | TYPE | DESCRIPTION
 --- | --- | ---
 email_type | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | Can be domain, plus, dot or random
 #### .waitForMessage(email, **options)
-__Wait for the message you want__
 
 PARAMETER | TYPE | DESCRIPTION
 --- | --- | ---
