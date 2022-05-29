@@ -16,9 +16,11 @@ if __name__ == "__main__":
     print("Your message:" message) # {"sender": sender, "sender_address": sender_address, "subject": subject, "url": url, "content": content }
 ```
 
-### Options
-To filter your mails, you can use options
+### Docs
 
-* sender="`sender_username`"
-* sender_address="`sender_email`"
-* subject="`message_subject`"
+<h2 id="lol">.waitForMessage(email, **options)</h2>
+<h3>Wait for the message you want</h3>
+
+PARAMETER | TYPE | DESCRIPTION | EXEMPLE
+--- | --- | --- | ---
+image | [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) - [Buffer](https://developer.mozilla.org/en-US/docs/Glossary/buffer) - [Canvas.Image](https://www.tabnine.com/code/javascript/functions/canvas/loadImage) | Image to affect | https://someimage.com/image.png
