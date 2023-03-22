@@ -1,6 +1,6 @@
 > **Warning**
 >
-> Smartnator migrated to https://www.emailnator.com. Selling new version for 5$, DM `Mewzax#0001`
+> Smartnator migrated to https://www.emailnator.com. Selling new version for 5$, DM `Mewzax#1337`
 
 # GmailnatorPy
  📮 A simple wrapper for Smartnator (old. Gmailnator) to get unlimited gmail written in Python
